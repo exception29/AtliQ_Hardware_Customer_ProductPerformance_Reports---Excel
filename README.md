@@ -1,5 +1,7 @@
 # AtliQ_Hardware_Customer_ProductPerformance_Reports---Excel
 
+## Customer And Product Performance based on Sales.
+
 The objective is to generate reports that provide answers to the following business inquiries:
 
 - Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.
