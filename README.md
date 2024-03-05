@@ -12,4 +12,8 @@ The objective is to generate reports that provide answers to the following busin
 
 - What are the top 5 countries in terms of net sales in 2021?
 
+Note: Fiscal Year For AtliQ Hardware is Sept to Aug.
+
   ### Advanced Excel concepts like Power Query, Power Pivot Table, Measures are used to generate the reports.
+
+
