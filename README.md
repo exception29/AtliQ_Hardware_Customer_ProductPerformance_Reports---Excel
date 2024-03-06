@@ -14,6 +14,13 @@ The objective is to generate reports that provide answers to the following busin
 
 Note: Fiscal Year For AtliQ Hardware is Sept to Aug.
 
-  ### Advanced Excel concepts like Power Query, Power Pivot Table, Measures are used to generate the reports.
+**Excel Concepts used:**
+
+1. ETL methodology (Extract, Transform, Load).
+2. Generate a date table using Power Query.
+3. Derive fiscal year and quarters.
+4. Establishing data model relationships with Power Pivot.
+5. Incorporating supplementary data into an existing data model.
+6. Using DAX to create calculated columns and measures.
 
 
